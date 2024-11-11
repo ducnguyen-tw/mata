@@ -1,0 +1,537 @@
+The sensible defaults playbook 
+The sensible  
+defaults playbook
+The sensible defaults playbook 
+Part one: What are the sensible defaults? 3 Sensible default principles 
+Sensible default practices 7 Business analysis 
+Data and AI 
+Experience design 
+Infrastructure 
+Product 
+Project management 
+Quality analysis 
+Security 
+Software development
+2 
+The sensible defaults playbook 
+Part one: What  
+are the sensible  
+defaults? 
+Our sensible defaults are a set of principles and practices that  we think are useful starting points for our teams. They are  not intended to be “best practices”, but rather a set of initial  assumptions that we know to be effective and useful. We also  believe that the combination of our sensible defaults increases  the likelihood of success. 
+We believe they are a key part of the “special sauce” that  Thoughtworks brings to our clients, so we need to make sure  we capture them, constantly review them and intentionally  share them with our newer colleagues. We need to be clear on  what practices we consider important, why we think they are  effective, and then back this up with references to help people  understand how to apply them. 
+That said, it may be that given a particular situation, some of our  sensible defaults might not be the right thing to do. 
+We categorize our sensible defaults into principles and practices.  The principles are things that we believe all of our practitioners  should apply, and the practices that cover nine specific areas of  practice. These are: 
+
+Business analysis Infrastructure Quality analysis 
+Data and AI Product 
+Security 
+Experience design Project management Software development
+
+3 
+The sensible defaults playbook 
+Sensible default principles 
+Relentlessly pursue value and business benefits An appreciation and understanding of how organizations  create value, and for whom. Our clients want more than  software. They want software that brings them undeniable  — sometimes industry disruptive — business value. 
+Delight customers and end users 
+We delight customers and end users by focusing on deeply  understanding their needs. We deliver products that  provide an exceptional user experience by empathizing  with users and building software that solves real problems. 
+Identify and manage RAIDs (risks, assumptions,  issues, dependencies) early 
+By proactively identifying and managing risks, assumptions,  issues and dependencies (RAIDs) early and often, we  reduce surprises and enable smooth delivery. Regular  stakeholder alignment on RAIDs is key. 
+Ensure visibility of work 
+Transparency builds trust. By making all work and progress  highly visible to clients and stakeholders through tools and  practices like showcases, burndown charts, and frequent  demos, we facilitate open collaboration. 
+Deliver working software sooner 
+We aim to release a first version to real users as quickly  as possible to start gathering feedback. Delivering vertical  slices of working software each iteration thereafter allows  us to iterate based on actual user input.
+4 
+The sensible defaults playbook 
+Be rapid and flexible in response to learning By releasing frequently and learning continuously, we  can respond rapidly to changing needs. Short iterations  and a flexible scope allow us to adapt our plans based on  feedback and deliver the most value. 
+Enable fast decision making 
+Fast decisions keep momentum high. Through practices  like short, time-boxed meetings, clear decision logs,  stakeholder alignment, and decentralized decision-making,  we can make quality decisions quickly. 
+Foster strong collaboration across the organization Software delivery takes a village. By actively involving  cross-functional stakeholders throughout the process  and facilitating open communication, we build the  organizational alignment needed for success. 
+Focus on little and big picture at the same time Maintaining a holistic perspective, ensures each story  delivers customer value while also aligning with the overall  product vision and roadmap. We let the big picture inform  small-scale decisions. 
+Embrace end-to-end collective responsibility The whole team takes ownership for delivering customer  value, from conception to delivery. We foster a one-team  mindset where everyone works together to deliver the  right outcomes.
+5 
+The sensible defaults playbook 
+Build security in from the start 
+Security, privacy, and resilience are everyone’s  responsibility. By considering them throughout the  delivery lifecycle and embedding proactive practices into  our processes, technology, and culture, we can better  manage risk. This saves time and money, builds trust,  and enables us to continuously deliver reliable software  with confidence.
+6 
+The sensible defaults playbook 
+Sensible  
+default practices
+7 
+The sensible defaults playbook 
+Business analysis 
+Prioritize asking hard questions 
+Finding the right questions to ask and asking them —  especially when it’s uncomfortable — takes consulting  skills and courage, and is an important part of making sure  we’re solving the right problem in a way that ultimately  brings undeniable business value. 
+You will be especially keen to lead this behavior when  selecting metrics and targets, in future-state workshops,  and in prioritization conversations. Answers to these  hard questions define success for the work, and must  find its way to the detail of story writing, as they form the  foundation for negotiating “how”. 
+Prioritize a deep understanding of the domain,  
+customer and client 
+What you may want to build isn’t always what the client  needs. It is critical to take an analytical, deep-dive  approach to build a comprehensive awareness and  empathy of both the business/industry domain, and  the landscape the client operates in. For the duration  of the engagement, you will assume the role of subject  and domain expertise. This helps you develop an  understanding and appreciation of what is important to  the client’s business, and how this drives decisions in the  organization, so that the changes made in the context of  this work will stick.
+8 
+BA Data and AI XD Infrastructure Product PM QA Security Software devThe sensible defaults playbook 
+Prioritize early delivery and continuous improvement 
+Our clients hire Thoughtworks to solve a problem that  
+they haven’t been able to solve, oftentimes a combination  
+of “what” they are delivering and why, as well as “how”.  
+As part of the delivery team, we ensure there is a smooth  
+pipeline of valuable work for the team to deliver. 
+What sets us apart is not designing the most elaborate  
+backlog design phase and solution, but to do a very  
+specific and minimal amount to gain the feedback  
+necessary to deliver on our promise of creating business  
+value. We embrace the continuous delivery philosophy by  
+building short feedback cycles throughout our analysis  
+processes and mindset. 
+Take ownership of the execution path 
+When Thoughtworks joins a client in their execution on  
+delivery, this often leads to a shift in their way of working.  
+It is critical to understand how the client approaches the  
+tasks of delivering to their customers, in order for us to  
+successfully fit our models into this landscape. 
+We need to define and understand the client’s needs and  
+the problem space. From there, we identify the path to  
+the solution and how to get there. We take ownership of  
+decomposing problems and constraints into manageable  
+steps, and ensure that each step is executed flawlessly  
+to deliver on the business value. Oftentimes that path is  
+non-linear; it takes negotiation and support from all team  
+members to get there. 
+9 
+BA Data and AI XD Infrastructure Product PM QA Security Software devThe sensible defaults playbook 
+Direct customers toward sustained success 
+To ensure successful client engagements, we ask a series  
+of key questions. These delve into the client’s existing  
+landscape, uncovering growth opportunities within current  
+business models and exploring how Thoughtworks’  
+services can amplify those gains. The focus extends  
+beyond immediate needs, considering the transferability  
+of knowledge and the long-term sustainability of  
+implemented practices. By understanding the client’s  
+aspirations for future products and envisioning potential  
+pitfalls, Thoughtworks can guide the creation of high 
+performing, adaptable teams that leverage best practices  
+for ongoing success. 
+10 
+The sensible defaults playbook 
+Data and AI 
+Test for biases and imbalances in data and ensure  data is ethically sourced 
+Machine learning will have a real impact on real people  in real life, so we want to create models that do not  discriminate against any group. 
+When creating models, test for biases the model  
+may have picked up from the data. When using data,  verify it was ethically sourced. Test for bias in the  data. And identify imbalances in the data that may  lead to biases in the model. 
+Incorporate observability for monitoring functional  and infrastructure components 
+Just like application platforms, it is important to track,  measure and make the data platform behavior visible.  This helps in identifying early warning signals and  proactively working on those. Observability also helps  uncover certain unknown-unknowns. 
+This will likely mean: the team ensures that the functional  components are actively observed; each infrastructure  component is also under observability; appropriate reports  are generated and alerts are raised based on the pre-defined  thresholds; the thresholds themselves are regularly  revisited and updated; the team should monitor the model  performance for any degradation including concept/data  drift; and that the model is monitored in production.
+11 
+BA Data and AI XD Infrastructure Product PM QA Security Software devThe sensible defaults playbook 
+Enable discoverability of data based on  
+data authorization 
+Data discovery is needed to exploit the full value of data,  
+towards increased data usage and the extraction of  
+insights and patterns from data.  
+The data platform acts as a central hub for discovering and  
+understanding your organization’s data. Users can search  
+and locate authorized data sets, along with important  
+details like field definitions, summaries, and ownership  
+information. The platform also provides data lineage  
+visualizations, allowing users to trace the origin and flow  
+of data. Additionally, it integrates links to data quality and  
+health dashboards, offering users a comprehensive view  
+of data trustworthiness and usability. In essence, the data  
+platform empowers users to find, understand, and leverage  
+data effectively. 
+The team establishes data quality rules and KPIs 
+Data is the most important asset for any data-driven  
+organization and hence quality/accuracy of any output  
+from the data is as good as the quality of underlying data  
+itself. Testing gives us confidence that a solution will  
+behave the way we expect it to, to make changes and add  
+new functionality. 
+The team defines the baseline data quality rules and  
+purpose driven data quality rules, the KPIs and metrics  
+for each rule along with the business. The team also  
+implements those quality rules as a framework that can be  
+extended in future, with quality tracked over time. 
+12 
+BA Data and AI XD Infrastructure Product PM QA Security Software devThe sensible defaults playbook 
+Utilize processes such as CD4ML to create  
+reproducible experiments 
+Incorporating processes such as CD4ML creates  
+reproducible experiments which is essential for ensuring  
+efficient, reliable, and responsible delivery of ML-driven  
+products. This approach tracks and logs the progress and  
+results of experiments, versions the experiments and the  
+data used, and guarantees reproducibility of results. By  
+documenting actions, outcomes, and decision rationales,  
+teams can foster creative discovery and insights  
+generation, while clearly communicating experimental  
+plans and results to clients. This systematic practice  
+ultimately enhances accountability, transparency, and  
+innovation in ML projects. 
+Pre-plan memory and compute needs for various  
+workloads upfront and establish continuous monitoring 
+The upfront understanding of the type of resources  
+needed for any data platform helps in effective delivery by  
+ensuring that the right resources are available at the right  
+time. It also helps to understand the cost of resources.  
+The continuous capacity measure and (re)planning also  
+helps in early course corrections. 
+The team plans for memory and compute required for  
+various workloads upfront and also during delivery to  
+fine-tune. That plan should also include provision for a  
+capacity upgrade, when needed. The performance of each  
+component should be actively monitored by the team. 
+13 
+The sensible defaults playbook 
+Experience design 
+Adhere to consistent design principles 
+Agree on design principles as a team as early as possible,  to enable decision-making and prioritization. Design  principles are a set of agreed guidelines and parameters  for delivering the ideal user experience for the current  project. This includes declaring biases and considerations  that the team should be mindful of. 
+Validate ideas with users 
+Validate assumptions and test design solutions with the  end users of your product through customer research and  concept testing. 
+Gather and rapidly share feedback from research and  testing with your team and stakeholders. 
+Implement continuous user testing 
+Testing should be as lightweight as possible.  
+Early in the process, test with low-fidelity prototypes, and  as you gain confidence in the solution, your tests will be  higher fidelity, using the code that your delivery team is  creating, so that the team can address any usability issues. 
+Incorporate design patterns and styles 
+Use and stay up-to-date with existing and familiar design  patterns, industry-standard affordances and current  UI trends, including existing product / brand assets or  design systems.
+14 
+BA Data and AI XD Infrastructure Product PM QA Security Software devThe sensible defaults playbook 
+Champion accessibility from the outset 
+Design products that work for everyone. Test for  
+accessibility throughout the design and build of the  
+product or digital service. Use a combination of automated  
+and manual accessibility testing. Include people with  
+disabilities in your testing. 
+Design in parallel with delivery 
+Design in parallel with delivery, not up-front or in a  
+separate design phase. Your analysis and design work  
+should only be a few iterations ahead of delivery to  
+minimize the risk of waste or changing direction. 
+Engage the entire team in user research and testing 
+Involve the whole team in research and testing. Bring  
+them with you on the journey of understanding the people  
+you’re designing for. 
+Design collaboratively and inclusively 
+Include stakeholders, developers, testers, and intended  
+users of the product, to solve design problems together. 
+Make all design work visible to everyone 
+Ensure design work is visible to the team and stakeholders,  
+and that design decisions are traceable over time.  
+Communicate the design vision and journey regularly  
+to all stakeholders. 
+15 
+The sensible defaults playbook 
+Infrastructure 
+Empower teams to provision and configure resources Leverage infrastructure code to empower teams rather  than gatekeeping. Empower teams to provision and  configure resources they need, using solutions such as  developer portals and application deployment infrastructure  descriptors. Empower teams to detect, troubleshoot and  correct issues by giving them access to tooling to replicate  production situations and observability into production  environments. Avoid disempowering teams with abstractions  and interfaces that hide implementation details. 
+Implement quality management to all code 
+Code for every part of a system should be well-designed,  cleanly implemented, and be quickly and safely changeable.  Code for infrastructure, testing, delivery, or operational  tasks is mission critical. You should be able to quickly  debug and safely change even minor-seeming code like  scripts. This implies using good design practices, pairing,  TDD and other techniques that are necessary for mission critical systems. Quality management includes CFRs such  as security, compliance, performance, reliability, scalability  and cost management.
+16 
+BA Data and AI XD Infrastructure Product PM QA Security Software devThe sensible defaults playbook 
+Define everything as code from the outset 
+Automation drives better designs and implementations  
+that are easier to improve and evolve. Defining systems  
+as code improves consistency, repeatability, transparency,  
+and testability. These benefits can be applied to more  
+than infrastructure, including delivery, monitoring, and  
+governance. Automation is an intrinsic part of system  
+design and implementation. Using code to define  
+infrastructure, deployment, tests and operations from  
+the start of a system returns more value at less cost than  
+retrofitting it to an existing system that lacks automation. 
+Develop independently deliverable components 
+Loosely coupled infrastructure components can be  
+improved and evolved more safely and managed more  
+effectively. Infrastructure codebases can become  
+large, complex and unwieldy. Just as with monolithic  
+applications, it is often useful to split infrastructure into  
+smaller, loosely-coupled components to make it easier  
+to change, test and manage them. 
+Utilize pipelines to test and deploy changes to  
+infrastructure code 
+Automating the change process for infrastructure  
+code makes fixes, updates, and improvements easier  
+and safer. Infrastructure needs to be changed more  
+often than many people assume. Continuous delivery  
+pipelines ensure changes can be delivered across a  
+system comprehensively, quickly and safely. A pipeline  
+should not only check for correctness, but also validate  
+against CFRs including security, compliance, stability  
+and scalability. Infrastructure pipelines are more practical  
+for smaller, loosely coupled components than for larger,  
+messier codebases. 
+17 
+BA Data and AI XD Infrastructure Product PM QA Security Software devThe sensible defaults playbook 
+Apply code to shared instances locally 
+Ensure changes are visible, processes are followed,  
+and clashes avoided. Engineers should not run  
+infrastructure tools locally for a shared infrastructure  
+instance that multiple people may be working on  
+or using. Applying infrastructure code from a pipeline  
+or other central service ensures that the change is  
+visible, the code version is available, and that processes  
+are followed correctly. It also avoids clashes that happen  
+when different people apply different local versions of  
+code to the same instance. 
+18 
+The sensible defaults playbook 
+Product 
+Engage in continuous customer research 
+We conduct user interviews and surveys to understand  customer needs, pain points, and desired outcomes.  We do research on customers, to define segments,  and document their problems and opportunities. 
+Regularly engage with customers 
+We frequently engage with end-users to get quantitative  and qualitative feedback and incorporate it into our  product development. 
+Continuously maintain a pipeline of new opportunities  to explore during delivery 
+We dedicate time for user research and testing to validate  assumptions and identify new opportunities. We share  ideas and conduct experiments to explore the feasibility  of new features. 
+Ensure the creation of outcome-based metrics 
+We define key performance indicators (KPIs) that directly  tie to the product vision and goals. We use value delivered  to the customer as our key measures of success, which  informs prioritization and decision making. We track the  impact of new features on these metrics to measure  success and identify areas for optimization.
+19 
+BA Data and AI XD Infrastructure Product PM QA Security Software devThe sensible defaults playbook 
+Craft a product vision with goals aligned to the mission 
+We involve stakeholders across the organization in defining  
+the product vision to ensure alignment with the company’s  
+mission. We translate the product vision into a set of  
+measurable goals that guide product development efforts. 
+Create a clear value proposition 
+We craft concise and compelling messages that convey  
+the unique benefits and competitive advantage of our  
+products. We tailor the value proposition to resonate  
+with specific customer segments and their needs. 
+Monitor trends in society, social interactions, technology  
+and the environment 
+We keep up to date with societal, social, technological  
+and environmental trends that may impact our product.  
+We do research on the market size, domain, opportunity,  
+competitors, and channels available and document our  
+findings. We consider how external factors might impact  
+the product and its users. 
+Utilize data to continuously monitor and assess metrics 
+We leverage data visualization to track key metrics and  
+identify trends over time. We have the data and tools  
+available to continuously monitor and assess our metrics,  
+and make decisions based on them. 
+20 
+BA Data and AI XD Infrastructure Product PM QA Security Software devThe sensible defaults playbook 
+Drive a product roadmap with value 
+We prioritize based on customer value and business  
+goals. We regularly review and update the roadmap  
+based on new learnings and market feedback. We  
+have a value-driven product roadmap, which shows how  
+the product will evolve over time to incrementally deliver  
+customer and business value, and meet business goals. 
+Keep ethics at core, respecting end-user privacy 
+We implement measures to protect user information. 
+21 
+The sensible defaults playbook 
+Project management 
+Plan, track and report on work 
+Establish, maintain and share an understanding of the  scope of the work, the RAIDS, the plan for delivering it,  and how work is progressing. We should also create a  mechanism for sharing progress towards this execution. 
+Planning is done against three time frames: long-, medium and short-term. Ensure delivery roadmaps, release plans  and iteration plans are created, updated, and shared with  the team and relevant stakeholders. Measures of success  for the project should be included in reporting. 
+Ensure teams understand the value  
+of the work being done 
+Establish, maintain, and share an understanding of the  goals of the work and of the value it delivers & how  this is measured. When team members understand the  vision, goals, and value of the work including how the  work contributes to the organization’s goals, they are  able to ensure that the work they do is aligned with  them. They also have the information they need to make  more informed / better decisions around what work to  prioritize, how best to adapt to change, and how best to  solve a problem.
+22 
+BA Data and AI XD Infrastructure Product PM QA Security Software devThe sensible defaults playbook 
+Track and actively manage the commercial 
+health of the project 
+Establish, maintain and share an accurate view of the  
+commercial position of the work. The funding available  
+for the work is a key project constraint. Understanding  
+the amount of money spent on a project is essential for  
+effective budget management, resource allocation, cost  
+control, forecasting, decision making, and adherence to  
+contractual obligations. 
+Act as servant leaders 
+Focus on the needs of the team helping members develop  
+and perform as highly as possible. We trust that if our  
+teams have the tools, support and information they  
+need they will do their best work and deliver on their  
+commitments. For our teams to achieve that, they need:  
+a common set of expectations about the work from the  
+start; the people and resources they need to deliver the  
+work and clear lines of communication within the team and  
+with stakeholders and collaborators. They also need open  
+channels for feedback. 
+23 
+The sensible defaults playbook 
+Quality analysis 
+Aim for early feedback throughout the product lifecycle Shift quality left approach where we start validating  the system right from conception and development by  verifying assumptions in requirements, highlighting any  risks, reviewing the designs, identifying edge cases,  impact analysis based on dependencies, strategising  testing and cross-functional requirements based on the  architecture. Shift quality right approach by validating  the system in production through controlled experiments,  observability (metrics), monitoring and alerting. 
+Test the product with consideration for user  
+and business value 
+Assuring the value to the business and end user through  user research, prototyping, A/B testing and ensuring this  understanding is baked while testing features. 
+Understanding user needs enables QAs to ask the  question: “Are we building the right product?” versus  “Are we building the product right?” during product  development. It also ensures decisions made during  different stages of the software development lifecycle are  based on the value it provides to the customer/end-user.
+24 
+BA Data and AI XD Infrastructure Product PM QA Security Software devThe sensible defaults playbook 
+Explore the system with domain and user context to  
+inform product evolution 
+Exploring the system with domain and user context in mind  
+helps in evolving the product by gaining insights into how  
+it could be used and the consequences of using it in a  
+way that was not originally intended. Uncovering potential  
+risks in the product is the core differentiator that a quality  
+analyst brings to the team by thinking outside the box,  
+with an inquisitive mindset. 
+Pragmatically automate testing for continuous  
+quality delivery 
+Test automation through continuous integration for  
+features is at the core of our quality assurance. This gives  
+the whole team confidence in continuous quality delivery.  
+We advocate pragmatic automation of tests, based on  
+cost versus value across different layers of the tech  
+stack, without duplication. This ensures fast and accurate  
+feedback, fundamental to iterative development. 
+Reliable and repeatable automated tests, run regularly as  
+part of the deployment pipeline supports the team with  
+fast feedback and builds confidence in every change. 
+Continuously improve product quality by identifying  
+gaps in processes and technologies used 
+Technology, perspective, constraints and approaches  
+change over time, as does the opportunity to learn more.  
+Without continuous Improvement, we have a stagnating  
+organization that will eventually fall behind its competitors. 
+We must keep on top of identifying gaps in processes and  
+suggesting process improvements. Processes support  
+product development, so if there is a gap in the process,  
+inadvertently product quality can have an impact. 
+25 
+BA Data and AI XD Infrastructure Product PM QA Security Software devThe sensible defaults playbook 
+Periodically review the implemented test tools and  
+frameworks and continuously improve test code quality,  
+deployment strategies. 
+Promote a team wide focus on prioritizing  
+quality at every stage 
+Advocate to have the whole team, across roles, think  
+about testing and quality. This ensures we have various  
+perspectives and the responsibility is shared, while  
+the QAs are still accountable. To achieve this, QAs will  
+extensively collaborate with different roles at various  
+stages in the software development lifecycle. They will  
+spread the awareness of quality in the organization and  
+ensure everyone is thinking about it, from ideation to  
+when the customers start using the product. 
+26 
+The sensible defaults playbook 
+Security 
+Plan to respond to security incidents 
+Despite best efforts to prevent security breaches,  incidents will still occur. Having a well-defined incident  response plan is crucial for minimizing the impact of  a security incident and ensuring a swift and effective  recovery. An incident response plan outlines the roles,  responsibilities and procedures for detecting, investigating,  containing and recovering from security incidents. 
+Protect secrets 
+Secrets, such as passwords, API keys, and certificates,  are like keys that unlock access to sensitive systems and  data. If not properly protected, they provide an easy path  for attackers to gain unauthorized access and elevate  their privileges. Implementing best practices for secrets  management is a very effective way to reduce the chance  of very serious breaches. 
+Implement access control 
+Access control is a fundamental and foundational aspect  of the security of systems and data. By implementing  appropriate authentication (AuthN) and authorization  (AuthZ) mechanisms we ensure that only authorized  individuals have access to sensitive resources. Proper  access control measures, such as role-based authorisation  and multi-factor authentication, help protect valuable  assets while enabling users to perform their job  
+functions securely.
+27 
+BA Data and AI XD Infrastructure Product PM QA Security Software devThe sensible defaults playbook 
+Manage vulnerabilities 
+By responsibly managing vulnerabilities, we reduce the  
+cybersecurity risk for the systems we build. Vulnerabilities  
+are common flaws that can occur in a team’s code,  
+dependencies, libraries, or platform infrastructure. When  
+exposed to hostile actors, these vulnerabilities serve  
+as entry points for system breaches and can enable  
+privilege escalation if left unchecked. Effectively managing  
+vulnerabilities through regular scanning, prioritization, and  
+timely remediation helps proactively identify and address  
+these security weaknesses before they can be exploited. 
+Protect data based on sensitivity 
+Not all data is equally risky. Personally identifiable  
+information, financial records, health data, and other  
+sensitive categories require stronger protections to  
+mitigate risks and comply with regulations. By classifying  
+data based on sensitivity and applying appropriate  
+protection measures, we ensure that security efforts  
+are well focused. 
+Minimize and protect attack surface 
+Minimizing attack surface reduces opportunities for  
+exploitation by limiting exposure of software components,  
+especially to less trusted networks and the public internet.  
+Restricting access to only required functions and applying  
+network segmentation and access controls creates a  
+multi-layered defense. Reducing the attack surface allows  
+security efforts to be focused on the most critical assets. 
+28 
+BA Data and AI XD Infrastructure Product PM QA Security Software devThe sensible defaults playbook 
+Perform threat modeling 
+Threat modeling identifies potential security and privacy  
+risks early in the development process. By understanding  
+the system’s architecture, data flows, trust boundaries  
+and potential threats, teams can design and implement  
+appropriate security controls from the start. Threat  
+modeling helps prioritize security efforts to the specific  
+context and risk profile. 
+Control changes with secure pipelines 
+Secure pipelines provide a consistent and auditable  
+process for building, testing, and deploying software,  
+reducing the risk of error and ensuring that only approved  
+and validated changes are released. Implementing secure  
+pipelines aligns with DevSecOps principles and enables  
+teams to deliver software quickly and securely. 
+Establish security monitoring and respond to alerts 
+Security monitoring allows teams to detect and respond to  
+security incidents quickly. Collecting and analyzing logs,  
+metrics, and events from various systems and applications  
+helps identify suspicious activities, anomalies, and potential  
+breaches. A robust monitoring and alerting system  
+supports early threat detection, rapid incident investigation  
+and minimizing the impact of security incidents. 
+29 
+The sensible defaults playbook 
+Software development 
+Use test-driven development 
+TDD drives the design of software from the ‘outside-in’,  and we end up with better encapsulation and modularity  (aspects of clean code), making it easier to understand.  Just enough complexity should be added to make the  code pass tests (simplicity). The resulting automated  test suite can be run whenever we make a change so  we get fast feedback to support confidence. By sharing  responsibility for test automation with the whole team  supports repeatability. 
+Develop in pairs 
+Pair-programming provides extremely fast feedback on  code and design, reducing rework and leading to more  clean code and simplicity. Teams that pair regularly exhibit  better repeatability as we break down code ownership,  have more consistency, and can deal better with team  changes and absences. Pairing prioritizes team efficiency  and flow over a single individual’s speed by improving  collective code ownership, and reducing work in progress. 
+Integrate frequently and continuously 
+Continuous, frequent integration delivers fast feedback,  so you find out about incompatible changes early. The  confidence and safety net from this fast feedback  encourages refactoring to maintain simplicity. Frequent  integration helps keep change sets small, which reduces 
+30 
+BA Data and AI XD Infrastructure Product PM QA Security Software devThe sensible defaults playbook 
+deployment risk and makes debugging easier. While it  
+sometimes requires extra effort to make work-in-progress  
+integratable, it increases the overall team efficiency and  
+flow by avoiding complex merges, and achieving higher  
+simplicity in the change and deployment processes. 
+Deploy earlier and continuously 
+Deploying early to production gives us confidence that the  
+system is production-ready and we don’t have significant  
+work (and re-work) hidden in the backlog. We also find any  
+problems early. Deploying frequently — whether features  
+are ready to release or not, whether there were changes  
+or not — brings forward any problems with deployment.  
+It increases confidence in automation and processes and  
+thereby reduces deployment risk. 
+Automate deployment pipelines 
+We need fast feedback to ensure changes that we  
+are making function correctly and do not introduce  
+defects. To have confidence in this feedback, we  
+need the repeatability from scripted environment  
+configuration and deployment. Automation reduces errors  
+caused by humans. 
+Have fast and verified automated builds 
+We need very fast feedback to know that changes we’re  
+making have not introduced any defects. That build  
+process must be fully automated so that it delivers  
+repeatability and we don’t have late discovery of  
+differences caused by manual steps. Ensuring that the  
+build is reliable and fast allows us to introduce change in  
+small batches and get earlier integration and feedback. 
+31 
+BA Data and AI XD Infrastructure Product PM QA Security Software devThe sensible defaults playbook 
+Build for production 
+It’s much harder to add observability and supportability  
+“hooks” after a feature is complete and usually requires  
+significant refactoring. Putting a minimum set of  
+observability and runbooks in place before shipping to  
+production increases resilience of the system, and allows  
+for faster feedback. 
+Manage quality and tech debt effectively 
+High internal quality is essential to building software faster,  
+and at lower cost. Internal quality and productive tooling  
+enable a team to continue adding valuable features at  
+pace. Reflecting on quality measures, and prioritizing work  
+to make improvements is crucial to maintaining this pace  
+of delivery over time. 
+32 
+The sensible defaults playbook 
+Thoughtworks is a global technology consultancy  that integrates strategy, design and engineering  
+to drive digital innovation. We are over 10,500  
+Thoughtworkers strong across 48 offices in  
+19 countries. For 30 years, we’ve delivered  
+extraordinary impact together with our clients  
+by helping them solve complex business  
+problems with technology as the differentiator. 
+thoughtworks.com 
+© Thoughtworks, Inc. All Rights Reserved.
+33 
